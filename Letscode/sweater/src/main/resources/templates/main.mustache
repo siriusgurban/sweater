@@ -1,0 +1,22 @@
+<html>
+<head>
+
+</head>
+<body>
+<div>
+    <form action="post">
+        <input type="text" name="text" placeholder="Adi daxil edin">
+        <input type="text" name="tag" placeholder="Tegi daxil edin">
+        <button type="submit">Elave et</button>
+    </form>
+</div>
+<div>{{Siyahisi mesajlarin}}</div>
+    {{#messages}}
+    <div>
+        <b>{{id}}</b>
+        <span>{{span}}</span>
+        <i>{{tag}}</i>
+    </div>
+    {{/messages}}
+</body>
+</html>
