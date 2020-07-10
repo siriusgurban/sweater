@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Jpractise:jar2" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cf34879-21ea-4103-ba08-71f6efb29797" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UqZpSD6kzP6qAHnWTKDNT3h0D3" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="helloworld" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Thread">
+    <configuration name="Hello" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello.Hello" />
+      <module name="Jpractise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.IO" />
+      <module name="Jpractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO.IOio" />
+      <module name="Jpractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String.String1" />
+      <module name="Jpractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Thread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.Thread" />
+      <module name="Jpractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.UI" />
+      <module name="Jpractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Thread" />
+        <item itemvalue="Application.IOio" />
+        <item itemvalue="Application.IO" />
+        <item itemvalue="Application.UI" />
+        <item itemvalue="Application.String1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cf34879-21ea-4103-ba08-71f6efb29797" name="Default Changelist" comment="" />
+      <created>1576086268601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576086268601</updated>
+      <workItem from="1576086275270" duration="3120000" />
+      <workItem from="1576419352724" duration="5563000" />
+      <workItem from="1576671439344" duration="752000" />
+      <workItem from="1576863979407" duration="3331000" />
+      <workItem from="1577903043340" duration="106000" />
+      <workItem from="1577907349612" duration="4246000" />
+      <workItem from="1577979079427" duration="4468000" />
+      <workItem from="1577997900927" duration="1046000" />
+      <workItem from="1578497476940" duration="596000" />
+      <workItem from="1578503408052" duration="2221000" />
+      <workItem from="1578586332384" duration="2308000" />
+      <workItem from="1578644709348" duration="3359000" />
+      <workItem from="1578672620729" duration="1594000" />
+      <workItem from="1578762020130" duration="3097000" />
+      <workItem from="1578839242384" duration="1816000" />
+      <workItem from="1579122035069" duration="1575000" />
+      <workItem from="1579204231286" duration="2163000" />
+      <workItem from="1579268299101" duration="5831000" />
+      <workItem from="1579713592923" duration="3504000" />
+      <workItem from="1579770526644" duration="5607000" />
+      <workItem from="1579873007284" duration="2940000" />
+      <workItem from="1579883562727" duration="2411000" />
+      <workItem from="1579952837838" duration="4206000" />
+      <workItem from="1579969583048" duration="1125000" />
+      <workItem from="1580032952575" duration="2968000" />
+      <workItem from="1580049817498" duration="1395000" />
+      <workItem from="1580117197159" duration="4333000" />
+      <workItem from="1580135313466" duration="1308000" />
+      <workItem from="1580205314874" duration="3019000" />
+      <workItem from="1580219000218" duration="2695000" />
+      <workItem from="1580233204503" duration="1027000" />
+      <workItem from="1580297726992" duration="6114000" />
+      <workItem from="1580327980997" duration="3987000" />
+      <workItem from="1580383913046" duration="2094000" />
+      <workItem from="1580471116671" duration="2271000" />
+      <workItem from="1580490316092" duration="4972000" />
+      <workItem from="1580566420801" duration="2257000" />
+      <workItem from="1580665399288" duration="5297000" />
+      <workItem from="1580741315750" duration="3323000" />
+      <workItem from="1580996344439" duration="4074000" />
+      <workItem from="1581032318859" duration="2249000" />
+      <workItem from="1581082613745" duration="1184000" />
+      <workItem from="1581091986648" duration="4628000" />
+      <workItem from="1581265805142" duration="660000" />
+      <workItem from="1581286337557" duration="809000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
