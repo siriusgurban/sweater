@@ -7,8 +7,9 @@
     <span><a href="/user">Istifadecilerin siyahisi</a></span>
 </div>
     <div>
-        <form method="post">
+        <form method="post" enctype="multipart/form-data">
             <input type="text" name="text" placeholder="Mesaji daxil edin">
+            <input type="file" name="file">
             <input type="text" name="tag" placeholder="Tagi daxil edin">
             <input type="hidden" name="_csrf" value="${_csrf.token}" />
             <button type="submit">Əlavə edin</button>
@@ -16,7 +17,7 @@
     </div>
 <div>Mesajlarin siyahisi</div>
     <form action="/main" method="get">
-        <input type="text" name="filter" value="${filter}">
+        <input type="text" name="filter" value="${filter?ifExists}">
         <button type="submit">Axtar</button>
     </form>
 <#list messages as message>
@@ -25,6 +26,11 @@
         <span>${message.text}</span>
         <i>${message.tag}</i>
         <strong>${message.authorName}</strong>
+        <div>
+            <#if message.filename??>
+                <img src="/img/${message.filename}" alt="">
+            </#if>
+        </div>
     </div>
     <#else>
         No message
